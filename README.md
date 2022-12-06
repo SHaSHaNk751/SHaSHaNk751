@@ -1,33 +1,63 @@
-[![MasterHead](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h1 align="center">Hi 👋, I'm Shashank shekhar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+### Hello  There 👋 Traveller !! 
+<picture>
+   <img align="center" alt="Hope youre having a good day out there!!" src="https://data.whicdn.com/images/97132081/original.gif">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank751&label=Profile%20views&color=0e75b6&style=flat" alt="shashank751" /> </p>
+I am PlumEvo (aka Nishant Nirwan), I enjoy using my skills to contribute to the exciting technological advances that happen every day.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank751" alt="shashank751" /></a> </p>
+- 🔭 Working on my Problem solving and Intuition skills 
+- 🌱 Nurturing My C & C++ skills
+- 🤔 Looking for help with my Mental Health website
+- 💬 Smile when ever you can,
+- 📫 Find me on: 
+<p>&nbsp;</p>
+<div align="center">
+  <a href="https://discord.gg/xaWhY7YA">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://www.figma.com/@PlumEvo">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+  </a>
+  <a href="https://www.hackerearth.com/@nishantniao1f">
+    <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="HackerEarth Badge"/>
+  </a>
+  <a href="https://www.hackerrank.com/PlumEvo">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/20679564/plumevo">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverFlow Badge"/>
+  </a>
+  <a href="https://www.quora.com/profile/Nishant-Nirwan-7">
+    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="Quora Badge"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/plumevo/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="HackerEarth Badge"/>
+  </a>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<hr>
 
-- 💬 Ask me about **Python ,HTML , JAVASCRIPT**
+### My Stats 🔥 :
 
-- 📫 How to reach me **rai.shashank321@gmail.com**
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=plumevo&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=DD4C15)](https://git.io/streak-stats)
 
-- ⚡ Fun fact **If you want to laugh, just gimme a call..**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plumevo&layout=compact&theme=vision-friendly-dark)](https://github.com/plumevo/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shashank-1shekhar-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-1shekhar-" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/shashank shekhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shashank shekhar" height="30" width="40" /></a>
-<a href="https://instagram.com/theshashank_rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theshashank_rai" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shashank2315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shashank2315" height="30" width="40" /></a>
-</p>
+### Tropies on GitHub 🏆 :
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=plumevo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank751&show_icons=true&locale=en&layout=compact" alt="shashank751" /></p>
+<!--
+*PlumEvo/PlumEvo* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank751&show_icons=true&locale=en" alt="shashank751" /></p>
+Here are some ideas to get you started:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank751&" alt="shashank751" /></p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
